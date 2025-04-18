@@ -1,3 +1,5 @@
+/* Equipe: Ana Paula Szymczak, Julia Fonseca, Yuri Britto */
+
 import java.util.Scanner;
 
 
