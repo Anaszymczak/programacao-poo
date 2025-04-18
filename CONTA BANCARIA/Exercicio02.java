@@ -16,7 +16,7 @@ public class Exercicio02 {
 
         System.out.println("\n > Sacar 600");
         if (!conta1.sacar(600)) {
-            System.err.println("Erro ao sacar");
+            System.err.println("Erro ao sacar!");
         }
         conta1.consultarSaldo();
 
