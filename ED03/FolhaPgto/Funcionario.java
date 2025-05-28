@@ -1,4 +1,8 @@
 /**
+ * Por: Ana Paula Szymczak, Julia Fonseca, Yuri P. Britto
+ */
+
+/**
  * Classe abstrata que representa um funcionário.
  */
 public abstract class Funcionario {
